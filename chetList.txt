@@ -62,6 +62,7 @@
   "Visor Free": "Visor",
   "colossal": "Colossal",
   "UsingGalacticMenu": "Galactic Menu",
-  "sonytracker": "console tracker spyware",
-  "VANTA PRIVATE": "paid antiban"
+  "sonytracker": "Console tracker spyware",
+  "VANTA PRIVATE": "Paid Antiban",
+  "Seralyth NetworkMenu": "Seralyth Network Menu"
 }
