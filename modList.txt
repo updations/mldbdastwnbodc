@@ -78,7 +78,7 @@
   "GorillaBody 4.0.0": "Gorilla Body",
   "github.com/FluxedGaming-git/MonkeRealismPlus": "Monke Realism Plus",
   "AceUtilsPad": "UtilsPad",
-  "BetterNametagsCN", "BetterNametags",
+  "BetterNametagsCN": "BetterNametags",
   "Niko345 RotationControl 1.0.0": "Backflip mod"
 
 }
