@@ -61,7 +61,7 @@
   "CurrentSong": "Music Mod",
   "Grate": "Grate",
   "BingusNametags++":"Bingus Nametags",
-  "Gorilla ButtPlug" : "Gorilla ButtPlug",
+  "Gorilla ButtPlug" : "Gorilla Plug",
   "cody likes burritos":"Shut Up Monkeys",
   "BarkVersion":"Bark v3",
   "Grate": "Grate Menu",
