@@ -65,5 +65,7 @@
   "UsingGalacticMenu": "Galactic Menu",
   "sonytracker": "Console tracker spyware",
   "VANTA PRIVATE": "Paid Antiban",
-  "Seralyth NetworkMenu": "Seralyth Network Menu"
+  "Seralyth NetworkMenu": "Seralyth Network Menu",
+  "modMenu": "mod menu",
+  "Deez's FortniteEmoteWheel": "Fortnite Emotes"
 }
