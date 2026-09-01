@@ -67,5 +67,6 @@
   "VANTA PRIVATE": "Paid Antiban",
   "Seralyth NetworkMenu": "Seralyth Network Menu",
   "modMenu": "mod menu",
-  "Deez's FortniteEmoteWheel": "Fortnite Emotes"
+  "Deez's FortniteEmoteWheel": "Fortnite Emotes",
+  "@zlothyy on discord": "zlothy cheat"
 }
