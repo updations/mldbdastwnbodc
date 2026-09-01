@@ -38,6 +38,7 @@
   "BoyDoIFuckingLoveInformation Public": "BoyDoILoveSpyware",
   "github.com/DeezVrOfficial/TooMuchInfo": "TooMuchSpyware",
   "MonkEye Mod Checker": "EyeChecker Spyware",
+  "ThatUtilsPadFree": "UtilsPad",
   "Custom Property Setter": "Prop Setter",
   "Wyndigo V4": "Wyndigo V4",
   "Wyndigo V4.1.1": "Wyndigo V4",
