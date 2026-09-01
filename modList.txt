@@ -22,7 +22,7 @@
   "GPronouns": "GPronouns",
   "Fusioned": "Fusioned",
   "CSVersion": "Custom Skin",
-  "github.com/ZlothY29IQ/Zloth-RecRoomRig": "Zlothy Body Estimation",
+  "github.com/ZlothY29IQ/Zloth-RecRoomRig": "Body Estimation",
   "ShirtProperties": "GShirts Old",
   "GorillaShirts": "GShirts",
   "GS": "Old GShirts",
@@ -80,6 +80,6 @@
   "AceUtilsPad": "UtilsPad",
   "BetterNametagsCN": "BetterNametags",
   "Niko345 RotationControl 1.0.0": "Backflip mod",
-  "BetterNametagsFO": "BetterNametags"
-
+  "BetterNametagsFO": "BetterNametags",
+  "exo.nametags": "Exo Nametag"
 }
