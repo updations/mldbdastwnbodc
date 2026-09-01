@@ -69,5 +69,7 @@
   "modMenu": "mod menu",
   "Deez's FortniteEmoteWheel": "Fortnite Emotes",
   "@zlothyy on discord": "zlothy cheat",
-  "Femboy Client": "Gooner Client"
+  "Femboy Client": "Gooner Client",
+  "DogePullOwner": "Pull Mod [owner]",
+  "DogePullMod": "Pull Mod"
 }
