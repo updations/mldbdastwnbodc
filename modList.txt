@@ -79,6 +79,7 @@
   "github.com/FluxedGaming-git/MonkeRealismPlus": "Monke Realism Plus",
   "AceUtilsPad": "UtilsPad",
   "BetterNametagsCN": "BetterNametags",
-  "Niko345 RotationControl 1.0.0": "Backflip mod"
+  "Niko345 RotationControl 1.0.0": "Backflip mod",
+  "BetterNametagsFO": "BetterNametags"
 
 }
