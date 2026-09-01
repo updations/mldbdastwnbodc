@@ -68,5 +68,6 @@
   "Seralyth NetworkMenu": "Seralyth Network Menu",
   "modMenu": "mod menu",
   "Deez's FortniteEmoteWheel": "Fortnite Emotes",
-  "@zlothyy on discord": "zlothy cheat"
+  "@zlothyy on discord": "zlothy cheat",
+  "Femboy Client": "Gooner Client"
 }
